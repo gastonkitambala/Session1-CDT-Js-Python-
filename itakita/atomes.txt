@@ -1,0 +1,105 @@
+Hydrogene H 001 001008 004 410 436 486 656                           
+Helium He 002 004003 007 440 468 502 504 588 668 707               
+Lithium Li 003 006900 000                                           
+Beryllium Be 004 009000 000                                           
+Bore B 005 010800 000                                           
+Carbone C 006 012000 000                                           
+Azote N 007 014000 010 407 417 422 429 437 444 452 460 468 474   
+Oxygene O 008 016000 007 440 453 486 490 523 620 662               
+Fluor F 009 019000 000                                           
+Neon Ne 010 020200 010 453 457 469 471 473 479 533 534 536 540   
+Sodium Na 011 023000 002 589 590                                   
+Magnesium Mg 012 024300 000                                           
+Aluminium Al 013 027000 000                                           
+Silicium Si 014 028100 000                                           
+Phosphore P 015 031000 000                                           
+Soufre S 016 032100 000                                           
+Chlore Cl 017 035500 000                                           
+Argon Ar 018 039900 006 410 416 420 434 436 451                   
+Potassium K 019 039100 000                                           
+Calcium Ca 020 040100 000                                           
+Scandium Sc 021 045000 000                                           
+Titane Ti 022 047900 000                                           
+Vanadium V 023 051000 000                                           
+Chrome Cr 024 052000 000                                           
+Manganese Mn 025 054900 000                                           
+Fer Fe 026 055900 000                                           
+Cobalt Co 027 058900 000                                           
+Nickel Ni 028 058700 000                                           
+Cuivre Cu 029 063500 000                                           
+Zinc Zn 030 065400 000                                           
+Gallium Ga 031 069700 000                                           
+Germanium Ge 032 072600 000                                           
+Arsenic As 033 074900 000                                           
+Selenium Se 034 079000 000                                           
+Brome Br 035 079900 004 450 473 482 521                           
+Krypton Kr 036 083800 006 424 434 440 448 452 560                   
+Rubidium Rb 037 085500 010 420 423 518 521 528 535 545 567 575 592   
+Strontium Sr 038 087600 000                                           
+Yttrium Y 039 088900 000                                           
+Zirconium Zr 040 091200 000                                           
+Niobium Nb 041 092900 000                                           
+Molybdene Mo 042 096000 000                                           
+Technetium Tc 043 099000 000                                           
+Rutherium Ru 044 101100 000                                           
+Rhodium Rh 045 102900 000                                           
+Palladium Pd 046 106400 000                                           
+Argent Ag 047 107900 000                                           
+Cadmium Cd 048 112400 000                                           
+Indium In 049 114800 000                                           
+Etain Sn 050 118700 000                                           
+Antimoine Sb 051 121800 000                                           
+Tellure Te 052 127600 000                                           
+Iode I 053 126900 000                                           
+Xenon Xe 054 131300 006 453 465 470 477 494 518                   
+Cesium Cs 055 132900 000                                           
+Barium Ba 056 137400 000                                           
+Lanthane La 057 138900 000                                           
+Cerium Ce 058 140100 000                                           
+Praseodyme Pr 059 140900 000                                           
+Neodyme Nd 060 144300 000                                           
+Promethium Pm 061 147000 000                                           
+Samarium Sm 062 150400 000                                           
+Europium Eu 063 152000 000                                           
+Gadolium Gd 064 157300 000                                           
+Terbium Tb 065 158900 000                                           
+Dysprosium Dy 066 162500 000                                           
+Holmium Ho 067 164900 000                                           
+Erbium Er 068 167300 000                                           
+Thulium Tm 069 168900 000                                           
+Ytterbium Yb 070 173000 000                                           
+Lutetium Lu 071 175000 000                                           
+Hafnium Hf 072 178500 000                                           
+Tantale Ta 073 181000 000                                           
+Tungstene W 074 183900 000                                           
+Rhenium Re 075 186200 000                                           
+Osmium Os 076 190200 000                                           
+Iridium Ir 077 192200 000                                           
+Platine Pt 078 195100 000                                           
+Or Au 079 197000 000                                           
+Mercure Hg 080 200600 007 405 435 546 577 579 615 691               
+Thallium Tl 081 204400 000                                           
+Plomb Pb 082 207200 000                                           
+Bismuth Bi 083 209000 000                                           
+Polonium Po 084 209000 000                                           
+Astate At 085 210000 000                                           
+Radon Rn 086 222000 000                                           
+Francium Fr 087 223000 000                                           
+Radium Ra 088 226100 000                                           
+Actinium Ac 089 227000 000                                           
+Thorium Th 090 232100 000                                           
+Proactinium Pa 091 231000 000                                           
+Uranium U 092 238100 000                                           
+Neptunium Np 093 237000 000                                           
+Plutonium Pu 094 244000 000                                           
+Americium Am 095 243000 000                                           
+Curium Cm 096 248000 000                                           
+Berkelium Bk 097 247000 000                                           
+Californium Cf 098 251000 000                                           
+Einsteinium E 099 254000 000                                           
+Fermium Fm 100 253000 000                                           
+Mendelevium Md 101 256000 000                                           
+Nobelium No 102 253000 000                                           
+Laurencium Lw 103 256000 000                                           
+Rutherfordium Rf 104 261000 000                                           
+Hahnium Ha 105 260000 000                                           

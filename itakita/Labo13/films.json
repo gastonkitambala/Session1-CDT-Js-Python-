@@ -1,0 +1,125 @@
+{
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/efuPybo8V8KTYGslQphO74LRvm0.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 580489,
+      "original_language": "en",
+      "original_title": "Venom: Let There Be Carnage",
+      "overview": "Environ un an après avoir affronté Riot, Eddie Brock « cohabite » toujours avec le symbiote Venom. Alors qu’il tente de relancer sa carrière de journaliste d'investigation, Eddie se rend en prison pour interviewer le tueur en série Cletus Kasady. Il ignore que ce dernier est lui aussi l'hôte d'un symbiote, Carnage.",
+      "popularity": 4497.836,
+      "poster_path": "/hDfk9MgZeJvR79KeapPuOgNDl27.jpg",
+      "release_date": "2021-09-30",
+      "title": "Venom : Let There Be Carnage",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 1823
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fzKWwcaam9QSTaMSJlORuSojxio.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 524434,
+      "original_language": "en",
+      "original_title": "Eternals",
+      "overview": "Appartenant à une ancienne race d'êtres humains, les Eternels, qui peuvent manipuler l'énergie cosmique, ont été créés par les Célestes afin de protéger la Terre contre leurs homologues, les Déviants.",
+      "popularity": 2293.82,
+      "poster_path": "/idzmePEE5kvfqiNF0DEDmwUDUbV.jpg",
+      "release_date": "2021-11-03",
+      "title": "Les Éternels",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 786
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eeijXm3553xvuFbkPFkDG6CLCbQ.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 438631,
+      "original_language": "en",
+      "original_title": "Dune",
+      "overview": "L'histoire de Paul Atreides, jeune homme aussi doué que brillant, voué à connaître un destin hors du commun qui le dépasse totalement. Car, s'il veut préserver l'avenir de sa famille et de son peuple, il devra se rendre sur Dune, la planète la plus dangereuse de l'Univers. Mais aussi la seule à même de fournir la ressource la plus précieuse capable de décupler la puissance de l'Humanité. Tandis que des forces maléfiques se disputent le contrôle de cette planète, seuls ceux qui parviennent à dominer leur peur pourront survivre…",
+      "popularity": 2056.585,
+      "poster_path": "/qpyaW4xUPeIiYA5ckg5zAZFHvsb.jpg",
+      "release_date": "2021-09-15",
+      "title": "Dune",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 3758
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u5Fp9GBy9W8fqkuGfLBuuoJf57Z.jpg",
+      "genre_ids": [
+        12,
+        28,
+        53
+      ],
+      "id": 370172,
+      "original_language": "en",
+      "original_title": "No Time to Die",
+      "overview": "James Bond a quitté les services secrets et coule des jours heureux en Jamaïque. Mais sa tranquillité est de courte durée car son vieil ami Felix Leiter de la CIA débarque pour solliciter son aide : il s'agit de sauver un scientifique qui vient d'être kidnappé. Mais la mission se révèle bien plus dangereuse que prévu et Bond se retrouve aux trousses d'un mystérieux ennemi détenant de redoutables armes technologiques…",
+      "popularity": 1658.073,
+      "poster_path": "/qseURFLjRBCqFCNCKmS2uwM9IOj.jpg",
+      "release_date": "2021-09-29",
+      "title": "Mourir peut attendre",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 1484
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wfrfxivLOBtGMC98tIr2LSOeKSe.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "id": 639721,
+      "original_language": "en",
+      "original_title": "The Addams Family 2",
+      "overview": "Dans ce tout nouvel épisode, la famille Addams va se retrouver emberlificotée dans des aventures complètement déjantées, faites de situations loufoques, face à des personnages à la naïveté désarmante. Quoiqu’il arrive, toujours fidèle aux valeurs qui sont les siennes, la famille Addams ne manquera pas d’y apporter sa touche d’étrangeté et de bizarrerie.",
+      "popularity": 910.513,
+      "poster_path": "/jDvKTu18FYkr9aQJpSoAHFK4MZe.jpg",
+      "release_date": "2021-10-01",
+      "title": "La Famille Addams 2 : Une virée d'enfer",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 578
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zBkHCpLmHjW2uVURs5uZkaVmgKR.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "id": 585245,
+      "original_language": "en",
+      "original_title": "Clifford the Big Red Dog",
+      "overview": "Emily a du mal à s'intégrer au sein de son école. Par hasard, elle découvre un petit chiot rouge qu'elle nomme Clifford. Par magie, ce dernier subit une poussée de croissance et devient un chien gigantesque qui va attirer l’attention de généticiens cupides...",
+      "popularity": 353.188,
+      "poster_path": "/yeM8iO7ezomNkyB8opTRuv1ohOg.jpg",
+      "release_date": "2021-11-10",
+      "title": "Clifford",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 15
+    }
+  ],
+  "total_pages": 81,
+  "total_results": 1604
+}
